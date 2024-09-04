@@ -24,7 +24,8 @@ PLATFORMS = [
     Platform.SIREN,
     Platform.CLIMATE,
     Platform.NUMBER,
-    Platform.UPDATE
+    Platform.UPDATE,
+    Platform.EVENT
 ]
 
 
